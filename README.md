@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheldon Roberts, @robeshel
-- 👀 I’m really enjoy programming space/aerospace solutions
+- 👀 I am fascinated with space/aerospace software engineering solutions
 - 📫 To reach me, send me an email at robeshel@oregonstate.edu
 
 <!---
